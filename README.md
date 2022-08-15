@@ -7,8 +7,6 @@ This code contains an example of how you might use maup, similar to what we did 
 ### Data
 - [VEST 2020 CT Precinct Boundary and Election Results](https://redistrictingdatahub.org/dataset/vest-2020-connecticut-precinct-and-election-results/)
 - [U.S. Census CT Blocks](https://redistrictingdatahub.org/dataset/connecticut-block-pl-94171-2020/)
-- [U.S. Census CT Counties](https://redistrictingdatahub.org/dataset/connecticut-county-pl-94171-2020/)
-
 
 #### Folder Structure
 After making the name changes to the block-assignment files, you should create a "raw-from-source" and load in the above files. This file structure will allow you to run the notebook without making changes.
